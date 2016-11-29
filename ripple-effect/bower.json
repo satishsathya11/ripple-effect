@@ -1,0 +1,29 @@
+{
+  "name": "ripple-effect",
+  "version": "0.0.0",
+  "description": "ripple-effect",
+  "main": "dist/ripple-effect.min.js",
+  "homepage": "https://github.com/satishsathya11/ripple-effect",
+  "authors": [
+    "satish"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
